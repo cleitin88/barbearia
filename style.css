@@ -3,6 +3,7 @@ body {
 }
 
     #baner {
+        width: 100%;
     }
 
 h1 {
@@ -10,11 +11,15 @@ h1 {
     }
 
 p {
-    text-align: center;
-    background: #CCCCCC
-}
+        text-align: center;
+        background: #CCCCCC
+    }
+
+    #missao {
+            font-size: 20px;
+            }
 
 em strong {
-    color: red;
+    color: #FF0000;
     }
     
