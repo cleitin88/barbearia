@@ -8,9 +8,7 @@ body {
 
     .prin
 
-h1 {
-    text-aling: center;
-    }
+-
 
 p {
         text-align: center;
@@ -45,4 +43,8 @@ em strong {
     margin-right: 15%;
    }
 
-   
+.titulo-centralizado {
+text-aling: center;
+}
+
+
