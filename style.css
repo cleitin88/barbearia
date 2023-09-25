@@ -26,4 +26,14 @@ em strong {
    .itens {
     font-style:italic;
    }
-   
+
+   .imagenbeneficios {
+   Width: 50%;
+   }
+
+   ul {
+   display: inline-block;
+    vertical-aling: top;
+    width: 20%;
+    margin-right: 15%;
+   }
