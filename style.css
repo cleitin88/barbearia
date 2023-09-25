@@ -31,9 +31,16 @@ em strong {
    Width: 50%;
    }
 
+    .beneficios {
+    background: #ffffff;
+    padding: 20%;
+    }
+
    ul {
    display: inline-block;
     vertical-aling: top;
     width: 20%;
     margin-right: 15%;
    }
+
+   
